@@ -626,6 +626,16 @@ body.light hr.separator {
   font-size: 14px;
 }
 
+.about .resume-box .place1 {
+  position: relative;
+  padding-left: 26px;
+  color: #fff;
+  font-size: 22px;
+}
+.about .resume-box .place1:hover {
+  color: #FE4530;
+}
+
 .about .resume-box .place {
   opacity: .8;
   font-weight: 600;
@@ -1716,6 +1726,7 @@ body.light hr.separator {
     margin-top: 35px !important;
   }
 }
+
 
 
 
