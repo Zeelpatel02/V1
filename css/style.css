@@ -705,7 +705,7 @@ body.light hr.separator {
 }
 
 .portfolio .grid li {
-  width: 33.333333%;
+  width: 20%;
   float: left;
   cursor: pointer;
   padding: 15px;
@@ -714,7 +714,7 @@ body.light hr.separator {
 .portfolio .grid figure {
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 0;
   position: relative;
   overflow: hidden;
@@ -723,6 +723,7 @@ body.light hr.separator {
 .portfolio .grid figure img {
   display: block;
   position: relative;
+  
 }
 
 .portfolio .grid li a {
