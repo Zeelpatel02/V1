@@ -1,3 +1,12 @@
+::-moz-selection {
+  color: #FFFFFF;
+  background: #5CDB95;
+}
+
+::selection {
+  color: #FFFFFF;
+  background: #5CDB95;
+}
 html {
   overflow-x: hidden;
   height: 100%;
