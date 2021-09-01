@@ -5,10 +5,5 @@
   zeelpatel02.github.io
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://zeelpatel02.github.io" target="_blank">zeelpatel02.github.io</a>
+Hello! Thanks for finding out the repo for my latest portfolio website. This website is not just my new portfolio, but also a private project in and of itself. i feel I've grown quite bit as a developer & designer within the past year, so I wanted to make something to showcase a number of what I've learned and done.
 </p>
-## 💻 Zeelpatel02.github.io
-
-personal portfolio website and projects
-
-**[Zeelpatel02.github.io](https://zeelpatel02.github.io)**
