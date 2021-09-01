@@ -22,4 +22,6 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 | Light Navy     | ![#FE4530](https://via.placeholder.com/10/FE4530?text=+) `#FE4530` |
 
 
+[Live Demo](https://zeelpatel02.github.io)
+
 
