@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/Zeelpatel02/Zeelpatel02.github.io/blob/main/img/1.png" width="100" />
 </div>
 <h1 align="center">
-  zeelpatel02.github.io
+  [zeelpatel02.github.io](https://zeelpatel02.github.io/)
 </h1>
 <p align="center">
 Hello! Thanks for finding out the repo for my latest portfolio website. This website is not just my new portfolio, but also a private project in and of itself. i feel I've grown quite bit as a developer & designer within the past year, so I wanted to make something to showcase a number of what I've learned and done.
@@ -20,4 +20,6 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 | -------------- | ------------------------------------------------------------------ |
 | dark gray      | ![#111](https://via.placeholder.com/10/111?text=+)       `#111`    |
 | Light Navy     | ![#FE4530](https://via.placeholder.com/10/FE4530?text=+) `#FE4530` |
+
+
 
