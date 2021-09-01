@@ -9,3 +9,15 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 </p>
 
 ![demo](https://github.com/Zeelpatel02/Zeelpatel02.github.io/blob/main/img/Zeel%20Patel%20_%20Pyt.png)
+
+## What I used
+- [Sublime Text 3](https://www.sublimetext.com/3) for coding
+- [Github Pages](https://pages.github.com/) for easy push-to-deploy hosting
+
+## 🎨 Color Reference
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| dark gray      | ![#111](https://via.placeholder.com/10/0a192f?text=+)    `#111`    |
+| Light Navy     | ![#FE4530](https://via.placeholder.com/10/0a192f?text=+) `#FE4530` |
+
