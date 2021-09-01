@@ -12,7 +12,7 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 
 ## What I used
 - [Sublime Text 3](https://www.sublimetext.com/3) for coding
-- [Github Pages](https://pages.github.com/) for easy push-to-deploy hosting
+- [Github Desktop](https://desktop.github.com) for easy push-to-deploy hosting
 
 ## 🎨 Color Reference
 
