@@ -18,7 +18,7 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| dark gray      | ![#111](https://via.placeholder.com/10/111?text=+)       `#111`    |
+| dark gray      | ![#111](https://via.placeholder.com/10/111?text=+)       `#111111` |
 | Light Navy     | ![#FE4530](https://via.placeholder.com/10/FE4530?text=+) `#FE4530` |
 
 
