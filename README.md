@@ -20,6 +20,7 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 | -------------- | ------------------------------------------------------------------ |
 | dark gray      | ![#111111](https://via.placeholder.com/10/111111?text=+) `#111111` |
 | Light Navy     | ![#FE4530](https://via.placeholder.com/10/FE4530?text=+) `#FE4530` |
+| UFO Green      | ![#3FC15D](https://via.placeholder.com/10/3FC15D?text=+) `#3FC15D` |
 
 
 Please Visit : [ZeelPatel02.github.io](https://zeelpatel02.github.io)
