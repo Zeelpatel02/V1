@@ -7,6 +7,18 @@
   color: #FFFFFF;
   background: #3FC15D;
 }
+::-webkit-scrollbar{
+  width: 6px;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(transparent,#FE4530);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: linear-gradient(transparent,#46CF5D);
+  border-radius: 6px;
+}
+
 html {
   overflow-x: hidden;
   height: 100%;
