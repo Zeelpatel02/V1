@@ -23,6 +23,6 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 | UFO Green      | ![#3FC15D](https://via.placeholder.com/10/3FC15D?text=+) `#3FC15D` |
 
 
-Please Visit : [zeelpatel.netlify.app](https://zeelpatel.netlify.app/)
+Please Visit : [v1.zeelpatel.tech](https://v1.zeelpatel.tech/)
 
 
