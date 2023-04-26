@@ -7,15 +7,18 @@
   color: #FFFFFF;
   background: #3FC15D;
 }
-::-webkit-scrollbar{
+
+::-webkit-scrollbar {
   width: 6px;
 }
-::-webkit-scrollbar-thumb{
-  background: linear-gradient(transparent,#FE4530);
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(transparent, #FE4530);
   border-radius: 6px;
 }
-::-webkit-scrollbar-thumb:hover{
-  background: linear-gradient(transparent,#46CF5D);
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(transparent, #46CF5D);
   border-radius: 6px;
 }
 
@@ -86,7 +89,7 @@ body.home.light .bg {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  box-shadow: 0 0 7px rgba(0,0,0,.3);
+  box-shadow: 0 0 7px rgba(0, 0, 0, .3);
 }
 
 body.light .preloader .black_wall {
@@ -123,11 +126,11 @@ body.light.about .resume-box .place:before {
   background-color: #666;
 }
 
-body.light.about  .resume-box li:after {
+body.light.about .resume-box li:after {
   border-left: 1px solid #ddd;
 }
 
-body.light.about .c100 > span {
+body.light.about .c100>span {
   color: #666;
 }
 
@@ -139,12 +142,12 @@ body.light.portfolio .slideshow figure {
   background-color: #fff;
 }
 
-body.light.portfolio .slideshow ul > li:after {
-  background: rgba(255,255,255,0.77);
+body.light.portfolio .slideshow ul>li:after {
+  background: rgba(255, 255, 255, 0.77);
 }
 
 body.light.portfolio .slideshow {
-  background: rgba(0,0,0,0.7);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 body.light.contact .contactform input[type=text],
@@ -155,12 +158,12 @@ body.light.contact .contactform textarea {
   color: #666;
 }
 
-body.light.contact  ul.social li a {
+body.light.contact ul.social li a {
   color: #666;
   background: #eee;
 }
 
-body.light.contact  ul.social li a:hover {
+body.light.contact ul.social li a:hover {
   color: #fff;
 }
 
@@ -222,8 +225,8 @@ body.light hr.separator {
     background: #eee;
   }
 
-  body.light #menuToggle > span,
-  body.light #menuToggle input:checked ~ span {
+  body.light #menuToggle>span,
+  body.light #menuToggle input:checked~span {
     background: #666;
   }
 
@@ -284,6 +287,7 @@ body.light hr.separator {
     top: 31px;
   }
 }
+
 /*** Buttons ***/
 .btn {
   box-shadow: none !important;
@@ -481,7 +485,7 @@ body.light hr.separator {
   border-radius: 15px;
   left: 30px;
   top: 30px;
-  box-shadow: 0 0 7px rgba(0,0,0,.9);
+  box-shadow: 0 0 7px rgba(0, 0, 0, .9);
 }
 
 .home .container-home {
@@ -490,7 +494,7 @@ body.light hr.separator {
   min-height: 100%;
 }
 
-.home .home-details > div {
+.home .home-details>div {
   max-width: 550px;
   margin: 0 auto;
 }
@@ -650,6 +654,7 @@ body.light hr.separator {
   color: #fff;
   font-size: 22px;
 }
+
 .about .resume-box .place1:hover {
   color: #FE4530;
 }
@@ -681,7 +686,7 @@ body.light hr.separator {
   background-color: #252525;
 }
 
-.about .c100 > span {
+.about .c100>span {
   color: #fff;
 }
 
@@ -741,7 +746,7 @@ body.light hr.separator {
 .portfolio .grid figure img {
   display: block;
   position: relative;
-  
+
 }
 
 .portfolio .grid li a {
@@ -775,7 +780,7 @@ body.light hr.separator {
 
 .portfolio .slideshow {
   position: fixed;
-  background: rgba(0,0,0,0.85);
+  background: rgba(0, 0, 0, 0.85);
   width: 100%;
   height: 100%;
   top: 0;
@@ -803,23 +808,23 @@ body.light hr.separator {
   height: 100%;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  -webkit-transform: translate3d(0,0,150px);
-  transform: translate3d(0,0,150px);
+  -webkit-transform: translate3d(0, 0, 150px);
+  transform: translate3d(0, 0, 150px);
   -webkit-transition: -webkit-transform 0.5s;
   transition: transform 0.5s;
 }
 
-.portfolio .slideshow ul.animatable > li {
+.portfolio .slideshow ul.animatable>li {
   -webkit-transition: -webkit-transform 0.5s;
   transition: transform 0.5s;
 }
 
 .portfolio .slideshow-open .slideshow ul {
-  -webkit-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 }
 
-.portfolio .slideshow ul > li {
+.portfolio .slideshow ul>li {
   width: 660px;
   position: absolute;
   top: 50%;
@@ -828,25 +833,25 @@ body.light hr.separator {
   visibility: hidden;
 }
 
-.portfolio .slideshow ul > li.show {
+.portfolio .slideshow ul>li.show {
   visibility: visible;
 }
 
-.portfolio .slideshow ul > li:after {
+.portfolio .slideshow ul>li:after {
   content: '';
   position: absolute;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0, 0, 0, 0.7);
   -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s;
   z-index: 111;
   border-radius: 10px;
 }
 
-.portfolio .slideshow ul > li.current:after {
+.portfolio .slideshow ul>li.current:after {
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity 0.3s, visibility 0s 0.3s;
@@ -916,7 +921,7 @@ body.light hr.separator {
 
 .portfolio .slideshow .carousel-indicators {
   bottom: 0;
-  background: rgba(0,0,0,.4);
+  background: rgba(0, 0, 0, .4);
   padding: 10px 0;
   margin: 0;
 }
@@ -968,6 +973,7 @@ body.light hr.separator {
 .contact .main-content {
   padding-bottom: 85px;
 }
+
 /* Left Side */
 
 .contact .custom-span-contact {
@@ -1015,6 +1021,7 @@ body.light hr.separator {
   background: #2b2a2a;
   border-radius: 50%;
 }
+
 /* Form */
 .contact .contactform input[type=text],
 .contact .contactform input[type=email] {
@@ -1153,7 +1160,7 @@ body.light hr.separator {
 }
 
 .blog .page-link:focus,
-.blog .page-link:active{
+.blog .page-link:active {
   box-shadow: none !important;
 }
 
@@ -1210,13 +1217,13 @@ body.light hr.separator {
 }
 
 @media (max-width: 1100px) and (min-width: 992px) {
-  .home .home-details > div {
+  .home .home-details>div {
     max-width: 450px;
   }
 }
 
 @media (min-width: 1600px) {
-  .home .home-details > div {
+  .home .home-details>div {
     max-width: 600px;
   }
 }
@@ -1356,7 +1363,7 @@ body.light hr.separator {
     left: 0;
   }
 
-  #menuToggle > span {
+  #menuToggle>span {
     display: flex;
     width: 23px;
     height: 2px;
@@ -1366,31 +1373,31 @@ body.light hr.separator {
     border-radius: 3px;
     z-index: 1;
     transform-origin: 5px 0;
-    transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-    background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-    opacity 0.55s ease;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+      background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+      opacity 0.55s ease;
   }
 
-  #menuToggle > span:first-child {
+  #menuToggle>span:first-child {
     transform-origin: 0 0;
   }
 
-  #menuToggle > span:nth-last-child(2) {
+  #menuToggle>span:nth-last-child(2) {
     transform-origin: 0 100%;
   }
 
-  #menuToggle input:checked ~ span {
+  #menuToggle input:checked~span {
     opacity: 1;
     transform: rotate(45deg) translate(4px, 0);
     background: #fff;
   }
 
-  #menuToggle input:checked ~ span:nth-last-child(3) {
+  #menuToggle input:checked~span:nth-last-child(3) {
     opacity: 0;
     transform: rotate(0deg) scale(0.2, 0.2);
   }
 
-  #menuToggle input:checked ~ span:nth-last-child(2) {
+  #menuToggle input:checked~span:nth-last-child(2) {
     transform: rotate(-45deg) translate(2px, 4px);
   }
 
@@ -1406,10 +1413,10 @@ body.light hr.separator {
     -webkit-font-smoothing: antialiased;
     transform-origin: 0 0;
     transform: translate(-100%, 0);
-    transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
   }
 
-  #menuToggle input:checked ~ ul {
+  #menuToggle input:checked~ul {
     transform: none;
   }
 
@@ -1468,7 +1475,7 @@ body.light hr.separator {
     padding: 0;
   }
 
-  .portfolio .slideshow ul > li {
+  .portfolio .slideshow ul>li {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1478,7 +1485,7 @@ body.light hr.separator {
     margin: 0;
   }
 
-  .portfolio .slideshow ul > li:after {
+  .portfolio .slideshow ul>li:after {
     display: none;
   }
 
@@ -1601,7 +1608,7 @@ body.light hr.separator {
     padding-top: 85px;
   }
 
-  .main-content > .container {
+  .main-content>.container {
     padding: 0 25px;
   }
 
@@ -1685,7 +1692,7 @@ body.light hr.separator {
     width: 100%;
   }
 
-  .portfolio .main-content > .container {
+  .portfolio .main-content>.container {
     padding: 0 10px;
   }
 
@@ -1745,7 +1752,3 @@ body.light hr.separator {
     margin-top: 35px !important;
   }
 }
-
-
-
-
