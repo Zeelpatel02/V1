@@ -2,11 +2,9 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/Raj2patel/V1/main/img/mario.png" width="100" />
 </div>
 <h1 align="center">
-Raj2patel.github.io
+rajpatel.vercel.app
 </h1>
-<p align="center">
-Hello! Thanks for finding out the repo for my latest portfolio website. This website is not just my new portfolio, but also a private project in and of itself. i feel I've grown quite bit as a developer & designer within the past year, so I wanted to make something to showcase a number of what I've learned and done.
-</p>
+
 
 ![demo](https://raw.githubusercontent.com/Raj2patel/V1/main/img/Raj%20Patel%20_%20Pyt.png)
 
@@ -23,6 +21,6 @@ Hello! Thanks for finding out the repo for my latest portfolio website. This web
 | UFO Green      | ![#3FC15D](https://via.placeholder.com/10/3FC15D?text=+) `#3FC15D` |
 
 
-Please Visit : [v1.Rajpatel.tech](https://v1.Rajpatel.tech/)
+Please Visit : [v1.Rajpatel.tech](https://rajpatel.vercel.app/)
 
 
